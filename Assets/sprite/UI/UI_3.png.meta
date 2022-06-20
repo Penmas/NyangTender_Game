@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: f6417a7f991e80545b2e5b9e5bb40c93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 667856776226961401
+    second: 00
+  - first:
+      213: -9174663175908297857
+    second: 01
+  - first:
+      213: 6082923258519782395
+    second: 02
+  - first:
+      213: -4669669011502886270
+    second: 03
+  - first:
+      213: 6366276794033121423
+    second: 04
+  - first:
+      213: 3065139531343699480
+    second: UI_3_5
+  - first:
+      213: -141314016064375178
+    second: UI_3_6
+  - first:
+      213: -8748812990330718337
+    second: UI_3_7
+  - first:
+      213: -236914785920448525
+    second: UI_3_8
+  - first:
+      213: -4808391382757990260
+    second: 05
+  - first:
+      213: -3151171801920675184
+    second: 06
+  - first:
+      213: 6613079604345459279
+    second: 07
+  - first:
+      213: -8607006357760528201
+    second: 08
+  - first:
+      213: -6979966179372950201
+    second: 09
+  - first:
+      213: 2678988569845297219
+    second: UI_3_14
+  - first:
+      213: 211658440970329145
+    second: UI_3_15
+  - first:
+      213: 3120312675223468717
+    second: UI_3_16
+  - first:
+      213: -3603549264585035083
+    second: UI_3_17
+  - first:
+      213: 5135048174967774061
+    second: UI_3_18
+  - first:
+      213: 4276384405420547697
+    second: UI_3_19
+  - first:
+      213: 4990604881969931792
+    second: UI_3_20
+  - first:
+      213: -6295768730389295940
+    second: UI_3_21
+  - first:
+      213: 3728195310450490473
+    second: UI_3_22
+  - first:
+      213: 7335122790587264962
+    second: UI_3_23
+  - first:
+      213: 8802892292140635337
+    second: UI_3_24
+  - first:
+      213: -3644327097998111563
+    second: UI_3_25
+  - first:
+      213: 7444269814825638033
+    second: UI_3_26
+  - first:
+      213: -7802181490983471251
+    second: UI_3_27
+  - first:
+      213: 8623896529382136455
+    second: UI_3_28
+  - first:
+      213: -7098429243541190460
+    second: UI_3_29
+  - first:
+      213: -2065504411442300651
+    second: UI_3_30
+  - first:
+      213: 4166614473822730485
+    second: UI_3_31
+  - first:
+      213: 3211721872739236778
+    second: UI_3_32
+  - first:
+      213: -970749794068966785
+    second: UI_3_33
+  - first:
+      213: 185505479005072399
+    second: UI_3_34
+  - first:
+      213: -7268610726651541461
+    second: Sidecat
+  - first:
+      213: -2220026099545100841
+    second: Catrose
+  - first:
+      213: -4234251509722248000
+    second: BlueRaccoon
+  - first:
+      213: 6845815344425890889
+    second: UI_3_38
+  - first:
+      213: 8413821893538561858
+    second: UI_3_39
+  - first:
+      213: -8427760108024657967
+    second: UI_3_40
+  - first:
+      213: -4299659867171887484
+    second: UI_3_41
+  - first:
+      213: 2178614370691745275
+    second: UI_3_42
+  - first:
+      213: -3266584187604790422
+    second: UI_3_43
+  - first:
+      213: 1770974173415302375
+    second: UI_3_44
+  - first:
+      213: -6357798754029449104
+    second: ChurLibre
+  - first:
+      213: 7961293845185988010
+    second: Nyangtini
+  - first:
+      213: -64904220664450783
+    second: Miaojito
+  - first:
+      213: 2914038694660944739
+    second: UI_3_48
+  - first:
+      213: -3728633614921390944
+    second: UI_3_49
+  - first:
+      213: -7077352181266412235
+    second: UI_3_50
+  - first:
+      213: 109580786535723554
+    second: UI_3_51
+  - first:
+      213: -2490727467986850673
+    second: TextBox
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sidecat
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1135
+        width: 99
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28475b0e05b02b90800000000000000
+      internalID: -7268610726651541461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catrose
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1135
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda4805602e031e0800000000000000
+      internalID: -2220026099545100841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueRaccoon
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1135
+        width: 170
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc08599faaec35c0800000000000000
+      internalID: -4234251509722248000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChurLibre
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 950
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07057a0e7bf84c7a0800000000000000
+      internalID: -6357798754029449104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyangtini
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 949
+        width: 118
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa580da42923c7e60800000000000000
+      internalID: 7961293845185988010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miaojito
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 949
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1213fd684f9691ff0800000000000000
+      internalID: -64904220664450783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextBox
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 350
+        width: 907
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce55670982f6dd0800000000000000
+      internalID: -2490727467986850673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sidecat: -7268610726651541461
+      BlueRaccoon: -4234251509722248000
+      TextBox: -2490727467986850673
+      Nyangtini: 7961293845185988010
+      Miaojito: -64904220664450783
+      ChurLibre: -6357798754029449104
+      Catrose: -2220026099545100841
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

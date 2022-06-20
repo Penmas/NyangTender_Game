@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 1909710834158b04093109ffa5ee99f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2519624897654106960
+    second: Money_Back
+  - first:
+      213: 2881655999765225791
+    second: Icon_Money
+  - first:
+      213: 2020055091839791569
+    second: TrashCan
+  - first:
+      213: -1614297248123252564
+    second: Book_Close
+  - first:
+      213: -8140047083062880060
+    second: Book_Open
+  - first:
+      213: 4403919537802097465
+    second: Icon_Cocktail
+  - first:
+      213: 8262823140704642418
+    second: Cocktail_Page
+  - first:
+      213: 2199843206251901110
+    second: Button_BigLong_None
+  - first:
+      213: 7692330150590040627
+    second: Button_BigMiddle_None
+  - first:
+      213: 2135972842816579127
+    second: Button_BigShort_None
+  - first:
+      213: -7554844106116034129
+    second: Bubble_Bad
+  - first:
+      213: -6928104899101301452
+    second: Button_BigLong_Push
+  - first:
+      213: -2327964642448851249
+    second: Button_BigMiddle_Push
+  - first:
+      213: -919092037653689
+    second: Button_BigShort_Push
+  - first:
+      213: -7701940639057813029
+    second: Button_SmallLong_None
+  - first:
+      213: 8955490483851906880
+    second: Button_SmallMiddle_None
+  - first:
+      213: 8018888657061479335
+    second: Button_SmallShort_None
+  - first:
+      213: 3843552520649545604
+    second: Button_SmallLong_Push
+  - first:
+      213: 2492798865565539717
+    second: Button_SmallMiddle_Push
+  - first:
+      213: 5221977895521801001
+    second: Button_SmallShort_Push
+  - first:
+      213: 562560309931859961
+    second: Bubble_None
+  - first:
+      213: -4384315255773831016
+    second: Button_BigLong_Close
+  - first:
+      213: -8325389906974461513
+    second: Button_BigMiddle _Close
+  - first:
+      213: 3435581668939855945
+    second: Button_BigShort_Close
+  - first:
+      213: 8707456579027042020
+    second: Cocktail_Miaojito
+  - first:
+      213: -9066958148344128650
+    second: Cocktail_Catrose
+  - first:
+      213: 4600334878205345844
+    second: Cocktail_Sidecat
+  - first:
+      213: -4478426679663942825
+    second: Cocktail_Nyangtini
+  - first:
+      213: 3860695469915200262
+    second: Button_SmallLong_Close
+  - first:
+      213: 3331521556681428597
+    second: Button_SmallMiddle_Close
+  - first:
+      213: 2003906253203196670
+    second: Button_SmallShort_Close
+  - first:
+      213: -5456200687822887319
+    second: Bubble_Great
+  - first:
+      213: -5060295176672605558
+    second: Button_BigLong_Close_Line
+  - first:
+      213: -3399265380772972460
+    second: Button_BigMiddle_Close_Line
+  - first:
+      213: -1881897603448674910
+    second: Button_BigShort_Close_Line
+  - first:
+      213: 3058314689539530911
+    second: Button_SamllLong_Close_Line
+  - first:
+      213: 8008528628820391391
+    second: Button_SamllMiddle_Close_Line
+  - first:
+      213: 853776868270130143
+    second: Button_SamllShort_Close_Line
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Money_Back
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1143
+        width: 452
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d810518e780dd0800000000000000
+      internalID: -2519624897654106960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Money
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1147
+        width: 125
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3121e63dd2bdf720800000000000000
+      internalID: 2881655999765225791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCan
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1102
+        width: 154
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d174df376da80c10800000000000000
+      internalID: 2020055091839791569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Close
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 970
+        width: 213
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca019bba43dd899e0800000000000000
+      internalID: -1614297248123252564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Open
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 971
+        width: 213
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c815174e4eb80f80800000000000000
+      internalID: -8140047083062880060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Cocktail
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 972
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b8169c7ddd1d30800000000000000
+      internalID: 4403919537802097465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktail_Page
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 612
+        width: 458
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275e39f3ed17ba270800000000000000
+      internalID: 8262823140704642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigLong_None
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 857
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07336adb9678e10800000000000000
+      internalID: 2199843206251901110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigMiddle_None
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 856
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a42f82485a0ca60800000000000000
+      internalID: 7692330150590040627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigShort_None
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 856
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a6f1dbff74ad10800000000000000
+      internalID: 2135972842816579127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Bad
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 726
+        width: 274
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11081105dc72790800000000000000
+      internalID: -7554844106116034129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigLong_Push
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 771
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4356c6a0d4d6adf90800000000000000
+      internalID: -6928104899101301452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigMiddle_Push
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 771
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceba25ed7861bfd0800000000000000
+      internalID: -2327964642448851249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigShort_Push
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 771
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b6495371cbcfff0800000000000000
+      internalID: -919092037653689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallLong_None
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 698
+        width: 109
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd160df9bc53d1590800000000000000
+      internalID: -7701940639057813029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallMiddle_None
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 698
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4267952b484c70800000000000000
+      internalID: 8955490483851906880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallShort_None
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 698
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30f896fb0d84f60800000000000000
+      internalID: 8018888657061479335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallLong_Push
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 624
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879fdc47aa075530800000000000000
+      internalID: 3843552520649545604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallMiddle_Push
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 624
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd78e5c53389220800000000000000
+      internalID: 2492798865565539717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallShort_Push
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 624
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d48f8a31387840800000000000000
+      internalID: 5221977895521801001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_None
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 471
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd83e0f9d9ec700800000000000000
+      internalID: 562560309931859961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigLong_Close
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 510
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89066440188c723c0800000000000000
+      internalID: -4384315255773831016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigMiddle _Close
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 510
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13a2a4df5467c80800000000000000
+      internalID: -8325389906974461513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigShort_Close
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 510
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f00e4353adaf20800000000000000
+      internalID: 3435581668939855945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallLong_Close
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 412
+        width: 109
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b51463312f39530800000000000000
+      internalID: 3860695469915200262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallMiddle_Close
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 412
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8d836431fb3e20800000000000000
+      internalID: 3331521556681428597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SmallShort_Close
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 412
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4c51ce1e4fcb10800000000000000
+      internalID: 2003906253203196670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Great
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 193
+        width: 265
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9662313f16ea744b0800000000000000
+      internalID: -5456200687822887319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigLong_Close_Line
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 279
+        width: 175
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a8ecfe85836c9b0800000000000000
+      internalID: -5060295176672605558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigMiddle_Close_Line
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282
+        width: 149
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587eb1752263d0d0800000000000000
+      internalID: -3399265380772972460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BigShort_Close_Line
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 286
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a568c2b91822e5e0800000000000000
+      internalID: -1881897603448674910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SamllLong_Close_Line
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 186
+        width: 141
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ec59a101517a20800000000000000
+      internalID: 3058314689539530911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SamllMiddle_Close_Line
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 187
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b26e5b52042f60800000000000000
+      internalID: 8008528628820391391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_SamllShort_Close_Line
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 188
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3cfa6c98939db00800000000000000
+      internalID: 853776868270130143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Book_Open: -8140047083062880060
+      Button_SamllShort_Close_Line: 853776868270130143
+      Bubble_None: 562560309931859961
+      Button_SmallShort_None: 8018888657061479335
+      Button_SmallMiddle_Close: 3331521556681428597
+      Button_SmallLong_None: -7701940639057813029
+      Button_SmallMiddle_None: 8955490483851906880
+      Button_SmallLong_Push: 3843552520649545604
+      Money_Back: -2519624897654106960
+      Book_Close: -1614297248123252564
+      Bubble_Great: -5456200687822887319
+      Button_BigLong_None: 2199843206251901110
+      Icon_Money: 2881655999765225791
+      Cocktail_Page: 8262823140704642418
+      TrashCan: 2020055091839791569
+      Button_BigMiddle _Close: -8325389906974461513
+      Button_SamllLong_Close_Line: 3058314689539530911
+      Button_SmallLong_Close: 3860695469915200262
+      Button_BigLong_Close_Line: -5060295176672605558
+      Button_BigMiddle_None: 7692330150590040627
+      Icon_Cocktail: 4403919537802097465
+      Button_SamllMiddle_Close_Line: 8008528628820391391
+      Button_BigShort_None: 2135972842816579127
+      Bubble_Bad: -7554844106116034129
+      Button_BigShort_Push: -919092037653689
+      Button_BigShort_Close_Line: -1881897603448674910
+      Button_BigLong_Push: -6928104899101301452
+      Button_BigLong_Close: -4384315255773831016
+      Button_BigMiddle_Push: -2327964642448851249
+      Button_BigShort_Close: 3435581668939855945
+      Button_SmallShort_Close: 2003906253203196670
+      Button_SmallShort_Push: 5221977895521801001
+      Button_SmallMiddle_Push: 2492798865565539717
+      Button_BigMiddle_Close_Line: -3399265380772972460
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

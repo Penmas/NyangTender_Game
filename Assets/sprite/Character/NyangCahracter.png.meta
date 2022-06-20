@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 43fa3d7c4b7462e45866918d9da0a03c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7781348169856743010
+    second: NyangCahracter_0
+  - first:
+      213: 1390795111861105171
+    second: NyangCahracter_1
+  - first:
+      213: -5666155481548188720
+    second: NyangCahracter_2
+  - first:
+      213: 4820316387481265189
+    second: NyangCahracter_3
+  - first:
+      213: -3099972614595281392
+    second: NyangCahracter_4
+  - first:
+      213: 6238040366524286715
+    second: NyangCahracter_5
+  - first:
+      213: -4923367211127495038
+    second: NyangCahracter_6
+  - first:
+      213: 7849605675517432798
+    second: NyangCahracter_7
+  - first:
+      213: -3823420447737914584
+    second: NyangCahracter_8
+  - first:
+      213: 9200256700043950386
+    second: NyangCahracter_9
+  - first:
+      213: -7664523848576585880
+    second: NyangCahracter_10
+  - first:
+      213: -5102378484356626476
+    second: NyangCahracter_11
+  - first:
+      213: -8971944849599805025
+    second: NyangCahracter_12
+  - first:
+      213: 1368754593559098218
+    second: NyangCahracter_13
+  - first:
+      213: -9038448977571297966
+    second: NyangCahracter_14
+  - first:
+      213: -7569963492742928566
+    second: NyangCahracter_15
+  - first:
+      213: -2665491830972004801
+    second: NyangCahracter_16
+  - first:
+      213: -5712133017528710861
+    second: NyangCahracter_17
+  - first:
+      213: -2313801159284504127
+    second: NyangCahracter_18
+  - first:
+      213: 4359006490136580886
+    second: NyangCahracter_19
+  - first:
+      213: -1753806086166103869
+    second: NyangCahracter_20
+  - first:
+      213: -3299211672031381997
+    second: NyangCahracter_21
+  - first:
+      213: -2815417368195675885
+    second: NyangCahracter_22
+  - first:
+      213: -808856030013396805
+    second: NyangCahracter_23
+  - first:
+      213: -6502048635944896640
+    second: NyangCahracter_24
+  - first:
+      213: -3865835746042585815
+    second: NyangCahracter_25
+  - first:
+      213: -803928325016445554
+    second: NyangCahracter_26
+  - first:
+      213: 1054041141647637754
+    second: NyangCahracter_27
+  - first:
+      213: -1446788671554104794
+    second: NyangCahracter_28
+  - first:
+      213: -7886692918801716620
+    second: NyangCahracter_29
+  - first:
+      213: -5423539391647831767
+    second: NyangCahracter_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NyangCahracter_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 957
+        width: 105
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26672f1eee6ecfb60800000000000000
+      internalID: 7781348169856743010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 957
+        width: 115
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b4d519c81d4310800000000000000
+      internalID: 1390795111861105171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 957
+        width: 105
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d310303c95cd51b0800000000000000
+      internalID: -5666155481548188720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 957
+        width: 115
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a0dc173435e240800000000000000
+      internalID: 4820316387481265189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 834
+        width: 100
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efb95d45faaf4d0800000000000000
+      internalID: -3099972614595281392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 836
+        width: 107
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf64a3da9a8f19650800000000000000
+      internalID: 6238040366524286715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 835
+        width: 100
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a0f94b9facabb0800000000000000
+      internalID: -4923367211127495038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 836
+        width: 108
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed35b1cd5c66fec60800000000000000
+      internalID: 7849605675517432798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 706
+        width: 89
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bdd913c5b70fac0800000000000000
+      internalID: -3823420447737914584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 706
+        width: 95
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239f68049b0edaf70800000000000000
+      internalID: 9200256700043950386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 715
+        width: 88
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f25190b2422a590800000000000000
+      internalID: -7664523848576585880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 714
+        width: 95
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c3525dc5b039b0800000000000000
+      internalID: -5102378484356626476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 572
+        width: 91
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f994537d1bf3d7380800000000000000
+      internalID: -8971944849599805025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 572
+        width: 102
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6336c50d0bcef210800000000000000
+      internalID: 1368754593559098218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 572
+        width: 91
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255ce5bea8af09280800000000000000
+      internalID: -9038448977571297966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 572
+        width: 98
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e16c8f4612f690800000000000000
+      internalID: -7569963492742928566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 431
+        width: 102
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3645375d45420bd0800000000000000
+      internalID: -2665491830972004801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 431
+        width: 104
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cb64e84d6ab0b0800000000000000
+      internalID: -5712133017528710861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 431
+        width: 91
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c5fbca1ab3efd0800000000000000
+      internalID: -2313801159284504127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 431
+        width: 97
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613963ace4d4e7c30800000000000000
+      internalID: 4359006490136580886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 285
+        width: 99
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b62d18aa39a7e0800000000000000
+      internalID: -1753806086166103869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 286
+        width: 105
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3163fb9d678d632d0800000000000000
+      internalID: -3299211672031381997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 285
+        width: 98
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3194b3202d0ade8d0800000000000000
+      internalID: -2815417368195675885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 284
+        width: 105
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86e98e9bd56c4f0800000000000000
+      internalID: -808856030013396805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 133
+        width: 107
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f036073514c5a0800000000000000
+      internalID: -6502048635944896640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 133
+        width: 112
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ddf1dfedac95ac0800000000000000
+      internalID: -3865835746042585815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 107
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d1582a27fd7d4f0800000000000000
+      internalID: -803928325016445554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_27
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 133
+        width: 112
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcfd8275d4b0ae00800000000000000
+      internalID: 1054041141647637754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 109
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62255fe5e59fbebe0800000000000000
+      internalID: -1446788671554104794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2c3a6396dc8290800000000000000
+      internalID: -7886692918801716620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NyangCahracter_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 76
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292e7f88a7bbb4b0800000000000000
+      internalID: -5423539391647831767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NyangCahracter_28: -1446788671554104794
+      NyangCahracter_2: -5666155481548188720
+      NyangCahracter_16: -2665491830972004801
+      NyangCahracter_22: -2815417368195675885
+      NyangCahracter_23: -808856030013396805
+      NyangCahracter_17: -5712133017528710861
+      NyangCahracter_21: -3299211672031381997
+      NyangCahracter_20: -1753806086166103869
+      NyangCahracter_3: 4820316387481265189
+      NyangCahracter_4: -3099972614595281392
+      NyangCahracter_9: 9200256700043950386
+      NyangCahracter_12: -8971944849599805025
+      NyangCahracter_14: -9038448977571297966
+      NyangCahracter_26: -803928325016445554
+      NyangCahracter_25: -3865835746042585815
+      NyangCahracter_6: -4923367211127495038
+      NyangCahracter_1: 1390795111861105171
+      NyangCahracter_29: -7886692918801716620
+      NyangCahracter_8: -3823420447737914584
+      NyangCahracter_13: 1368754593559098218
+      NyangCahracter_30: -5423539391647831767
+      NyangCahracter_27: 1054041141647637754
+      NyangCahracter_7: 7849605675517432798
+      NyangCahracter_24: -6502048635944896640
+      NyangCahracter_11: -5102378484356626476
+      NyangCahracter_18: -2313801159284504127
+      NyangCahracter_5: 6238040366524286715
+      NyangCahracter_19: 4359006490136580886
+      NyangCahracter_15: -7569963492742928566
+      NyangCahracter_0: 7781348169856743010
+      NyangCahracter_10: -7664523848576585880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
